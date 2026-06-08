@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Silvio</h1>
 <h3 align="center">Full-Stack AI Developer</h3>
 
-- 💼 Currently @ **Unemployed**, Trieste, Italy  
+- 💼 Currently @ **Fincantieri**, Trieste, Italy  
 - ⚙️ Specialized in **RAG architectures**, **NLP applications**, and **end-to-end AI systems**  
 - 🧠 Experienced with **Python**, **React**, **Angular**, **FastAPI**, **Flask**, **LlamaIndex**, **Docker**, and **Azure**  
 - 🚀 Passionate about **AI-driven automation**, **document intelligence**, and **lightweight model deployment (Ollama)**  
